@@ -1,4 +1,4 @@
-![result-image](https://user-images.githubusercontent.com/SalekhovTimur/figures/tree/main/Result/result_css.png)
+
 
 
 
